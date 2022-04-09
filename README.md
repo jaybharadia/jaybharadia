@@ -10,11 +10,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@jay.p.bharadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.p.bharadia" height="30" width="40" /></a>
-</p>
-- 💬 Ask me about **Vue, Tailwindcss,**
 
 - 📫 How to reach me **jay.p.bharadia@gmail.com**
 
