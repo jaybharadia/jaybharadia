@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vue JS Project Based Learning | Project 1](https://medium.com/@jay.p.bharadia/project-based-learning-project-1-31844ba19380?source=rss-ab278a7d5432------2)
+- [Habits of a productive developer Part 2 | Book Review](https://medium.com/@jay.p.bharadia/habits-of-a-productive-developer-part-2-book-review-cf040739395a?source=rss-ab278a7d5432------2)
+- [Why are we still so bad at Software Estimates? Why does it happen ?](https://medium.com/@jay.p.bharadia/why-are-we-still-so-bad-at-software-estimates-why-does-it-happen-52e3017cafc0?source=rss-ab278a7d5432------2)
+- [14 Habits of Highly Productive Developers | Book Review Part 1](https://medium.com/@jay.p.bharadia/14-habits-of-highly-productive-developers-book-review-part-1-20ea13928391?source=rss-ab278a7d5432------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
