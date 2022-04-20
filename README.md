@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vue JS Weekly tips #3](https://medium.com/@jay.p.bharadia/vue-js-weekly-tips-3-da6b9425cbf1?source=rss-ab278a7d5432------2)
 - [How to Develop JavaScript Skills with Practical Approach and Real life Projects](https://medium.com/@jay.p.bharadia/how-to-develop-javascript-skills-with-practical-approach-and-real-life-projects-a07ba65fd4d8?source=rss-ab278a7d5432------2)
 - [Let us understand Difference between Faith and Belief](https://medium.com/@jay.p.bharadia/let-us-understand-difference-between-faith-and-belief-b92ce1ec6a44?source=rss-ab278a7d5432------2)
 - [The Importance of Truth in Life](https://medium.com/@jay.p.bharadia/the-importance-of-truth-in-life-ae626670b446?source=rss-ab278a7d5432------2)
-- [Vue JS Project Based Learning | Project 1](https://medium.com/@jay.p.bharadia/project-based-learning-project-1-31844ba19380?source=rss-ab278a7d5432------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
