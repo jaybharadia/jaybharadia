@@ -1,30 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jay Bharadia</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **Admin Panel Projects built with Vue JS | Nuxt JS**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaybharadia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaybharadiya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jay_bharadia) 
 
-- 🌱 I’m currently learning **JS libraries | frameworks | tools**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jaybharadia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaybharadia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybharadia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📝 I regularly write articles on [https://medium.com/@jaybharadiya](https://medium.com/@jay.p.bharadiya)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaybharadia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 💬 Ask me about **vue | node js |**
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=jay_bharadia)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 📫 How to reach me **jay.p.bharadia@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=jaybharadia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qsAI-oBClbevxBWdTc4kNOCF-7pht9A9/view](https://drive.google.com/file/d/1qsAI-oBClbevxBWdTc4kNOCF-7pht9A9/view)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Vue JS Weekly tips #3](https://medium.com/@jay.p.bharadia/vue-js-weekly-tips-3-da6b9425cbf1?source=rss-ab278a7d5432------2)
-- [How to Develop JavaScript Skills with Practical Approach and Real life Projects](https://medium.com/@jay.p.bharadia/how-to-develop-javascript-skills-with-practical-approach-and-real-life-projects-a07ba65fd4d8?source=rss-ab278a7d5432------2)
-- [Let us understand Difference between Faith and Belief](https://medium.com/@jay.p.bharadia/let-us-understand-difference-between-faith-and-belief-b92ce1ec6a44?source=rss-ab278a7d5432------2)
-- [The Importance of Truth in Life](https://medium.com/@jay.p.bharadia/the-importance-of-truth-in-life-ae626670b446?source=rss-ab278a7d5432------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@jay.p.bharadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.p.bharadia" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
