@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS libraries | frameworks | tools**
 
-- 📝 I regularly write articles on [https://medium.com/@jay.p.bharadia](https://medium.com/@jay.p.bharadia)
+- 📝 I regularly write articles on [https://medium.com/@jaybharadiya](https://medium.com/@jay.p.bharadiya)
 
 - 💬 Ask me about **vue | node js |**
 
